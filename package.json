@@ -1,14 +1,14 @@
 {
-  "name": "react-boilerplate",
+  "name": "react-simple-boilerplate",
   "version": "1.0.0",
-  "description": "Simple Boilerplate for ReactJS project",
+  "description": "Simple and lightweight Boilerplate for ReactJS projects",
   "scripts": {
     "test": "eslint src",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/noahlotzer/react-boilerplate.git"
+    "url": "https://github.com/noahlotzer/react-simple-boilerplate.git"
   },
   "keywords": [
     "react",
@@ -22,9 +22,9 @@
   "author": "Noah-Jerome Lotzer <n.lotzer@neusta.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noahlotzer/react-boilerplate/issues"
+    "url": "https://github.com/noahlotzer/react-simple-boilerplate/issues"
   },
-  "homepage": "https://github.com/noahlotzer/react-boilerplate",
+  "homepage": "https://github.com/noahlotzer/react-simple-boilerplate",
   "devDependencies": {
     "babel-core": "^6.0.20",
     "babel-eslint": "^4.1.3",
