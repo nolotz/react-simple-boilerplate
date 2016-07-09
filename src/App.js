@@ -5,6 +5,5 @@ export default class App extends Component {
     return (
       <h1>Hello React :)</h1>
     );
-  };
-
+  }
 }
