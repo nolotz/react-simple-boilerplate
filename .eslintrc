@@ -1,13 +1,14 @@
 {
-  "ecmaFeatures": {
-    "jsx": true,
-    "modules": true
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
   },
   "env": {
     "browser": true,
     "node": true
   },
-  "parser": "babel-eslint",
   "rules": {
     "quotes": [2, "single"],
     "strict": [2, "never"],
@@ -17,5 +18,6 @@
   },
   "plugins": [
     "react"
-  ]
+  ],
+  "extends": ["eslint:recommended", "plugin:react/recommended"]
 }
