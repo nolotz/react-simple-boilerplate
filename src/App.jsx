@@ -1,9 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-export default class App extends Component {
-  render() {
+const App = React.createClass({
+  render: function() {
     return (
       <h1>Hello React :)</h1>
     );
   }
-}
+});
+export default App;
