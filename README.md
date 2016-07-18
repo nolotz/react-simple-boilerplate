@@ -9,10 +9,9 @@ Clone the boilerplate and create your own git repo.
 
 ```
 git clone git@github.com:lighthouse-labs/react-simple-boilerplate.git
-rm -rf .git
+git remote rm origin
+git remote add origin [YOUR NEW REPOSITORY]
 # Manually update your package.json file
-git init
-git add .; git commit -m "Initial commit"
 ```
 
 Install the dependencies and start the server.
