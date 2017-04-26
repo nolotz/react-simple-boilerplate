@@ -8,17 +8,14 @@ A minimal and light dev environment for ReactJS.
 Clone the boilerplate and create your own git repo.
 
 ```
-git clone git@github.com:lighthouse-labs/react-simple-boilerplate.git
-git remote rm origin
-git remote add origin [YOUR NEW REPOSITORY]
-# Manually update your package.json file
+git clone git@github.com:nolotz/react-simple-boilerplate.git
 ```
 
 Install the dependencies and start the server.
 
 ```
-npm install
-npm start
+npm/yarn install
+npm/yarn start
 open http://localhost:3000
 ```
 
