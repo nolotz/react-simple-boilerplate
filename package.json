@@ -6,10 +6,7 @@
     "lint": "eslint src",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/noahlotzer/react-simple-boilerplate.git"
-  },
+  "repository": "https://github.com/noahlotzer/react-simple-boilerplate.git",
   "keywords": [
     "react",
     "reactjs",
@@ -19,7 +16,7 @@
     "edit",
     "webpack"
   ],
-  "author": "Noah-Jerome Lotzer <n.lotzer@neusta.de>",
+  "author": "Noah-Jerome Lotzer <noah.lotzer@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/noahlotzer/react-simple-boilerplate/issues"
